@@ -12,8 +12,8 @@ function convertToBool(text, fault = 'true') {
 
 
 const defaultConfig = {
-  SESSION_ID: "ZjExlLzY#esAFLUG-ZRdjpHun8ZktG2SVq6SUNwU52HEut-Ysw5g", // Put your session id here
-  ALIVE_IMG: "https://github.com/DANUWA-MD/DANUWA-BOT/blob/main/images/Danuwa%20-%20MD.png?raw=true",
+  SESSION_ID: "KxA2GCJD#D8hv5Rhya6vG6M6kyKiOBgho1Gnedu0sKEJlmL_UMwY", // Put your session id here
+  ALIVE_IMG: "https://ik.imagekit.io/rmlbayysp/1749969122942-file_00000000ec3861f5a4689788244d2bc7_uuacggZ5W.png",
   ALIVE_MSG: "*Hello👋 CHAMI-MD Is Alive Now😍*", // Change alive msg from here
   OPENAI_API_KEY: "",// Add OPENAI API key here
   GEMINI_API_KEY: "", // Add Gemini API key here
